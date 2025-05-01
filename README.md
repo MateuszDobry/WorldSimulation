@@ -5,4 +5,4 @@ As you explore, you must be cautious of the surrounding flora and fauna, as they
 The plants spread, and the animals reproduce, creating a challenging environment.
 However, the human character possesses special power that provide a chance to survive against these dangers. The game is written in Java.
 
-Have fun playing!
+Have fun playing! ☺️
