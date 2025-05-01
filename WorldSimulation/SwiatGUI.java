@@ -290,7 +290,7 @@ public class SwiatGUI implements ActionListener, KeyListener {
 
     private class KomentatorGraphics extends JPanel {
         private String tekst;
-        private final String instriction = "Mateusz Dobry 198122\nStrzalki - kierowanie Czlowiekiem\n" +
+        private final String instriction = "Mateusz Dobry \nStrzalki - kierowanie Czlowiekiem\n" +
                 "P - aktywacja umiejetnosci\nEnter - przejscie do nastepnej tury\n";
         private JTextArea textArea;
 
